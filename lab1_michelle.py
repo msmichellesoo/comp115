@@ -85,6 +85,6 @@ Cheers,
 # After you finish this lab, please:
 # 1. rename the lab file as lab1_{your_first_name}.py, e.g., lab1_alice.py would be my lab1 file name.
 # 2. upload your lab1 python file to your GitHub "comp115" repository.
-# 3. follow this link "https://comp115-bravo.github.io/" and fill the blanks there.
+# 3. follow this link "https://github.com/msmichellesoo" and fill the blanks there.
 # Great job. Congratulations on finishing your lab1!
 #---------------------------------------------------------
